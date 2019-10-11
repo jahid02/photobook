@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+/*font-family: 'Raleway', sans-serif;*/
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
+/*Collumn three*/
+.collum-3{
+    background: #F7465B;
+}
+.collum-3 div h4{}
+.collum-3 div a{
+    color: #fff;
+    padding: 10px 25px;
+    border: 1px solid #ddd;
+}
+.collum-3 div a:hover{
+    text-decoration: none;
+}
+
+.collum-3 div .btn-1{
+    
+}
+.collum-3 div .btn-1:hover{
+    background: #fff;
+    color: #F7465B;
+}
+.collum-3 div .btn-2:hover{
+    background: #222222;
+    color: #fff;
+    border: 1px solid #222222;
+}
+.collum-3 div .btn-2{
+}
+
+
+/*how i do it work*/
+.section-4{}
+.section-4 h3{
+    
+}
+/*planning*/
+
+.plaing{}
+.plaing i{
+    font-size: 38px;
+    padding: 22px 0;
+}
+.plaing h4{}
+.plaing p{
+    color: #867777;
+    line-height: 31px;
+}
+
+/*overlay*/
+.overlay{
+    background: rgba(0, 0, 0, 0.5);
+}
+
+/*fun factor section*/
+.fun-factor{
+    background: url(img/section-bg-01.jpg) no-repeat center;
+    background-size: cover;
+}
+.fun-factor-div{}
+.fun-factor-div i{
+    font-size: 45px;
+    padding: 17px 0;
+}
+.fun-factor-div span{
+    font-size: 65px;
+}
+.fun-factor-div p{
+    letter-spacing: 3px;
+}
+
+
+/*what can i do*/
+.my-work-sec{
+    border-radius: 50%;
+}
+.sp-cl-1{
+    visibility: visible;
+    
+}
+.my-work-sec i{
+    background: #cecece;
+    color: #000;
+    font-size: 53px;
+    border-radius: 50%;
+    padding: 30px;
+    margin: 10px;
+    transition: 0.5s all ease;
+}
+.my-work-sec p{
+    color: #757171;
+}
+.my-work-sec h3{}
+.my-work-sec i:hover{
+    background: #F7465B;
+    color: #fff;
+    
+    
+}
+
+.sp-cl-1:hover {
+    border: 4px solid #F7465B;
+    border-radius: 50%;
+    width: 40%;
+    visibility: visible;
+}
+
+/*do uou like my services*/
+
+.do-you-like{
+    background: url(img/section-bg-02.jpg) no-repeat center;
+    background-size: cover;
+}
+.do-you-like a{
+    color: #fff;
+    background: #F7465B;
+    padding: 13px 25px;
+}
+.do-you-like a:hover{
+    background: #222222;
+    text-decoration: none;
+}
+
+/*my powerfull skills*/
+
+.powerfull-skill{
+    background: url(img/skills.jpg) no-repeat center;
+    background-size: cover;
+}
+
+/*My work*/
+.my-work{}
+.my-work a{
+    border: 1px solid #F7465B;
+    padding: 12px 30px;
+    color: #000;
+}
+.my-work a:hover{
+    border: 1px solid #000;
+    background: #222222;
+    color: #fff;
+    text-decoration: none;
+}
+
+/*clients clients*/
+
+.clients-comment{
+    background: url(img/testimonials.jpg) no-repeat center;
+    background-size: cover;
+}
+
+
+/*clients*/
+
+.clients-img{}
+.clients-img div div{
+        opacity: 0.5;
+}
+.clients-img div div:hover{
+        opacity: 1;
+}
+
+.clients-img img{
+    border: 1px solid #ddd;
+    padding: 15px 25px;
+}
+.clients-img img:hover{}
+
+
+/*keep in your tech*/
+.keep-in-touch{
+    background: url(img/contact.jpg) no-repeat center;
+    background-size: cover;
+}
+
+
+/*location section*/
+
+
+/*footer section*/
+.footer-section{
+    background: #212121;
+}
+
+.footer-section i{
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
